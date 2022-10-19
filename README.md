@@ -2,7 +2,7 @@
 - 👀 I’m interested in Youtube
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on Youtube
-- 📫 How to reach me xUntellect@gmail.com
+- 📫 How to reach me leexthefirst.business@gmail.com
 
 <!---
 LeexTheFirst/LeexTheFirst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
